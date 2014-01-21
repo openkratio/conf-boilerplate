@@ -1,6 +1,14 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
+<p itemprop="description">Las III Jornadas Gobierno Abierto y Open Data (OKioConf) tienen como objetivos principales promover los principios de transparencia y acceso a la información, participación y colaboración, a través de la apertura de datos públicos, sus motivaciones y objetivos en la ciudadanía, entre profesionales del sector y miembros de las instituciones públicas.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<p>
+  La intención de la organización es cubrir los siguientes aspectos:
+  <ul>
+    <li>Presentar buenas prácticas en materia de gobierno abierto y datos abiertos.</li>
+    <li>Exponer sectores y modelos de negocio vinculados a los datos y gobierno abierto.</li>
+    <li>Generar un espacio de networking para interesados en estas materias.</li>
+    <li>Realizar actividades de hacking relacionados con el gobierno y datos abiertos.</li>
+  </ul>
+</p>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>El hastag del evento será <strong>#OKioConf14</strong></p>

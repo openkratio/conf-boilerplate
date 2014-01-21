@@ -7,33 +7,28 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
+      name: "OKioConf'14",
+      description: "III Jornadas de Gobierno Abierto y Open Data",
+      date: "21-22 Febrero de 2014",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      price: "0€",
+      venue: "Universidad Pablo de Olavide",
+      address: "Carretera de Utrera, km. 1",
+      city: "Sevilla",
+      state: "España"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
-        link: "http://eventick.com.br"
-    },
-
-    // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
+        text: "Quiero ir",
+        link: "https://www.ticketea.com/okioconf-2014/"
     },
 
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://openkratio.github.io/okioconf14",
       googleanalytics: "UA-33656081-1"
     },
 
@@ -52,13 +47,13 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      about: "Sobre",
+      location: "Localizacion",
+      speakers: "Ponentes",
+      schedule: "Programa",
+      sponsors: "Patrocinadores",
+      partners: "Organizadores",
+      contact: "Contacto"
     },
 
     // The entire schedule
@@ -179,9 +174,9 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
+        name: "Openkratio",
         logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        url: "http://openkratio.org"
       }
     ],
 
