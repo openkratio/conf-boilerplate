@@ -7,13 +7,13 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "OKioConf'14",
+      name: "OKioConf 2014",
       description: "III Jornadas de Gobierno Abierto y Open Data",
       date: "21-22 Febrero de 2014",
       // If your event is free, just comment this line
-      price: "0€",
+      // price: "0€",
       venue: "Universidad Pablo de Olavide",
-      address: "Carretera de Utrera, km. 1",
+      address: " Universidad Pablo de OlavideCarretera de Utrera, km. 1",
       city: "Sevilla",
       state: "España"
     },
@@ -48,7 +48,7 @@ module.exports = {
     // Labels which you can translate to other languages
     labels: {
       about: "Sobre",
-      location: "Localizacion",
+      location: "Localización",
       speakers: "Ponentes",
       schedule: "Programa",
       sponsors: "Patrocinadores",
@@ -59,124 +59,113 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
+        name: "Recogida de acreditaciones",
         time: "9h00"
       },
       {
-        name: "Linus Torvalds",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        name: "Acto Inaugural",
+        description: "-",
+        time: "10h00"
+      },
+      {
+        name: "Café",
+        time: "11h00"
+      },
+      {
+        name: "Miembro de la OKFN",
+        photo: "themes/yellow-swan/img/okfn.jpg",
+        bio: "",
+        company: "Open Knowledge Foundation",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+          href: "http://twitter.com/okfn",
+          text: "@okfn"
         },
         presentation: {
-          title: "Digging into a Linux Kernel",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          title: "Evaluación sobre Indicadores OpenData",
+          description: "",
+          time: "11h30"
         }
       },
       {
-        name: "Bill Gates",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
+        name: "César Nicandro",
+        photo: "themes/yellow-swan/img/cesarnicandro.jpeg",
+        bio: "Politólogo especializado en legitimación, políticas públicas y cambio de las políticas. Policy Process Researcher. Desarrollador web y Media-Community Manager.",
+        company: "Gigapp",
         link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
+          href: "http://twitter.com/cesarncruz",
+          text: "@cesarncruz"
         },
         presentation: {
-          title: "Introducing Windows 12",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11h00"
+          title: "OGP Spain: Compromisos y Evaluacion",
+          description: "",
+          time: "12h30"
         }
       },
       {
-        name: "Lunch",
-        time: "12h00"
+        name: "Mesa sobre Experiencias de Participación Local",
+        description: "@xsancliment (Tarrasa) MJ Fernandez (Zaragoza) @junalcalde, Ciudadanos Torrelodones",
+        time: "13h30"
       },
       {
-        name: "Chuck Norris",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
+        name: "Almuerzo",
+        time: "14h30"
+      },
+      {
+        name: "Emilio García",
+        photo: "themes/yellow-swan/img/emiliogarcia.jpg",
+        bio: "Jefe de Área en Ministerio de Industria, Energía y Turismo",
+        company: "MINETUR (Gobierno de España)",
         link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
+          href: "http://twitter.com/egarciagarcia",
+          text: "@egarciagarcia"
         },
         presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "13h00"
-        }
-      },
-      {
-        name: "Steve Jobs",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
-        presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
-        }
-      },
-      {
-        name: "Coffee-break",
-        time: "15h00"
-      },
-      {
-        name: "Mark Zuckerberg",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
-        },
-        presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Protección a los whistleblower",
+          description: "",
           time: "16h00"
         }
       },
       {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
+        name: "Vicky Anderica",
+        photo: "themes/yellow-swan/img/vickyanderica.jpg",
+        bio: "Coordinadora de proyectos e investigadora en Acces Info Europe",
+        company: "Access Info",
         link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
+          href: "http://twitter.com/vickyande",
+          text: "@vickyande"
         },
         presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Regulacción de Lobbies",
+          description: "",
           time: "17h00"
         }
+      },
+      {
+        name: "Mesa sobre Ciudadanía Activa",
+        description: "@hackbogado @vicky_bol @fanetin @openkratio @suscuentas",
+        time: "18h00"
       }
     ],
-
     // List of Sponsors
     sponsors: [
-      {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
-      }
+      // {
+      //   name: "Eventick",
+      //   logo: "themes/yellow-swan/img/your-logo.jpgs",
+      //   url: "http://eventick.com.br"
+      // }
     ],
 
     // List of Partners
     partners: [
       {
         name: "Openkratio",
-        logo: "themes/yellow-swan/img/partner.png",
+        logo: "themes/yellow-swan/img/openkratio.png",
         url: "http://openkratio.org"
+      },
+      {
+        name: "Universidad Pablo de Olavide",
+        logo: "themes/yellow-swan/img/updo.jpg",
+        url: "http://www.upo.es"
       }
     ],
 

@@ -1,14 +1,18 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 <p itemprop="description">Las III Jornadas Gobierno Abierto y Open Data (OKioConf) tienen como objetivos principales promover los principios de transparencia y acceso a la información, participación y colaboración, a través de la apertura de datos públicos, sus motivaciones y objetivos en la ciudadanía, entre profesionales del sector y miembros de las instituciones públicas.</p>
 
-<p>
+<p itemprop="description">
   La intención de la organización es cubrir los siguientes aspectos:
-  <ul>
-    <li>Presentar buenas prácticas en materia de gobierno abierto y datos abiertos.</li>
-    <li>Exponer sectores y modelos de negocio vinculados a los datos y gobierno abierto.</li>
-    <li>Generar un espacio de networking para interesados en estas materias.</li>
-    <li>Realizar actividades de hacking relacionados con el gobierno y datos abiertos.</li>
-  </ul>
+  <table border="0" cellspacing="20px" style="font-size: 1.6em;line-height: 1.6em;">
+    <tr>
+        <td style="text-align:center;">Presentar buenas prácticas en materia de gobierno abierto y datos abiertos.</td>
+        <td style="text-align:center;">Exponer sectores y modelos de negocio vinculados a los datos y gobierno abierto.</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">Generar un espacio de networking para interesados en estas materias.</td>
+        <td style="text-align:center;">Realizar actividades de hacking relacionados con el gobierno y datos abiertos.</td>
+    </tr>
+  </table>
 </p>
 
-<p>El hastag del evento será <strong>#OKioConf14</strong></p>
+<p itemprop="description">El hastag del evento será <strong>#OKioConf14</strong></p>
