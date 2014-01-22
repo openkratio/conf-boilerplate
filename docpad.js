@@ -68,10 +68,6 @@ module.exports = {
         time: "10h00"
       },
       {
-        name: "Café",
-        time: "11h00"
-      },
-      {
         name: "Miembro de la OKFN",
         photo: "themes/yellow-swan/img/okfn.jpg",
         bio: "",
@@ -83,8 +79,12 @@ module.exports = {
         presentation: {
           title: "Evaluación sobre Indicadores OpenData",
           description: "",
-          time: "11h30"
+          time: "11h00"
         }
+      },
+      {
+        name: "Café",
+        time: "12h00"
       },
       {
         name: "César Nicandro",
@@ -102,7 +102,7 @@ module.exports = {
         }
       },
       {
-        name: "Mesa sobre Experiencias de Participación Local",
+        name: "Mesa: Experiencias de Participación Local",
         description: "@xsancliment (Tarrasa) MJ Fernandez (Zaragoza) @junalcalde, Ciudadanos Torrelodones",
         time: "13h30"
       },
@@ -141,7 +141,7 @@ module.exports = {
         }
       },
       {
-        name: "Mesa sobre Ciudadanía Activa",
+        name: "Mesa: Datos abiertos, ¿para qué?: la ciudadanía responde",
         description: "@hackbogado @vicky_bol @fanetin @openkratio @suscuentas",
         time: "18h00"
       }
