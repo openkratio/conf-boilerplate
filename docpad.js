@@ -29,7 +29,7 @@ module.exports = {
     site: {
       theme: "yellow-swan",
       url: "http://openkratio.github.io/okioconf14",
-      googleanalytics: "UA-33656081-1"
+      googleanalytics: ""
     },
 
     // Active sections on the website
@@ -69,7 +69,7 @@ module.exports = {
       },
       {
         name: "David Osimo",
-        photo: "",
+        photo: "themes/yellow-swan/img/davidosimo.jpg",
         bio: "",
         company: "",
         link: {
@@ -77,29 +77,35 @@ module.exports = {
           text: "@osimod"
         },
         presentation: {
-          title: "Conferenica 1: ¿Por qué es necesario el Gobierno Abierto y el Open Data? ",
+          title: "Conferencia 1: Open Policies, Open Data y Open Science: factores y motivaciones comunes",
           description: "",
           time: "10h00"
         }
       },
       {
-        name: "Miembro de la OKFN",
-        photo: "themes/yellow-swan/img/okfn.jpg",
-        bio: "",
+        name: "Café",
+        time: "10h45"
+      },
+
+      {
+        name: "Mor Rubistein",
+        photo: "themes/yellow-swan/img/morchickit.jpeg",
+        bio: "Coordinadora grupo de trabajo oGov",
         company: "Open Knowledge Foundation",
         link: {
-          href: "http://twitter.com/okfn",
-          text: "@okfn"
+          href: "http://twitter.com/morchickit",
+          text: "@morchickit"
         },
         presentation: {
-          title: "Evaluación sobre Indicadores OpenData",
+          title: "Conferencia 2: El oGov en el mundo: políticas y herramientas",
           description: "",
-          time: "11h00"
+          time: "11h30"
         }
       },
       {
-        name: "Café",
-        time: "12h00"
+        name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
+        description: "Moderadora: Manuela Fernández, Directora General de Derechos de la Ciudadanía, Participación y Voluntariado. // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Daniel Ros (@_danielros)",
+        time: "12h15"
       },
       {
         name: "César Nicandro",
@@ -111,54 +117,54 @@ module.exports = {
           text: "@cesarncruz"
         },
         presentation: {
-          title: "OGP Spain: Compromisos y Evaluacion",
+          title: "Conferencia 3: ¿Qué se plantea hacer a nivel nacional? Compromisos y evaluación del Plan de Gobierno Abierto de España ante la Open Government Parnership",
           description: "",
-          time: "12h30"
+          time: "13h15"
         }
-      },
-      {
-        name: "Mesa: Experiencias de Participación Local",
-        description: "@xsancliment (Tarrasa) MJ Fernandez (Zaragoza) @junalcalde, Ciudadanos Torrelodones",
-        time: "13h30"
       },
       {
         name: "Almuerzo",
-        time: "14h30"
+        time: "14h00"
       },
       {
-        name: "Emilio García",
-        photo: "themes/yellow-swan/img/emiliogarcia.jpg",
-        bio: "Jefe de Área en Ministerio de Industria, Energía y Turismo",
-        company: "MINETUR (Gobierno de España)",
-        link: {
-          href: "http://twitter.com/egarciagarcia",
-          text: "@egarciagarcia"
-        },
-        presentation: {
-          title: "Protección a los whistleblower",
-          description: "",
-          time: "16h00"
-        }
+        name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
+        description: "Moderador: Francisco Andrés Triguero, Secretario General de Universidades, Investigación y Tecnología // Participan: CRUE y OKFN-España (grupos de trabajo sobre Universidad Abierta)",
+        time: "16h00"
       },
       {
-        name: "Vicky Anderica",
-        photo: "themes/yellow-swan/img/vickyanderica.jpg",
-        bio: "Coordinadora de proyectos e investigadora en Acces Info Europe",
-        company: "Access Info",
+        name: "Antoni Gutierrez Rubí",
+        photo: "themes/yellow-swan/img/antonigr.jpg",
+        bio: "Asesor de comunicación",
+        company: "",
         link: {
-          href: "http://twitter.com/vickyande",
-          text: "@vickyande"
+          href: "http://twitter.com/antonigr",
+          text: "@antonigr"
         },
         presentation: {
-          title: "Regulacción de Lobbies",
+          title: "Conferencia 4: Hablemos claro, ¿y si forzamos la apertura? Protección a los whistleblower",
           description: "",
           time: "17h00"
         }
       },
       {
-        name: "Mesa: Datos abiertos, ¿para qué?: la ciudadanía responde",
-        description: "@hackbogado @vicky_bol @fanetin @openkratio @suscuentas",
-        time: "18h00"
+        name: "Vicky Anderica",
+        photo: "themes/yellow-swan/img/vickyanderica.jpg",
+        bio: "Coordinadora de proyectos e investigadora",
+        company: "Access Info Europa",
+        link: {
+          href: "http://twitter.com/vickyande",
+          text: "@vickyande"
+        },
+        presentation: {
+          title: "Conferencia 5: Transparencia para la trazabilidad de la influencia Regulación de los Lobbies",
+          description: "",
+          time: "17h45"
+        }
+      },
+      {
+        name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
+        description: "Moderador: Jesús Huerta, Director General de Política Digital // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Representante de @suscuentas",
+        time: "18h30"
       }
     ],
     // List of Sponsors

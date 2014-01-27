@@ -1,5 +1,7 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
+<br>
 <h5>Viernes 21 de febrero</h5>
+<br>
 <div class="schedule-tbl">
   <table>
     <thead>
@@ -40,5 +42,38 @@
     </tbody>
   </table>
 </div>
-<h5>Sábado 22 de febrero</h5>
-<p>Abierto proceso de propuestas. <a href="#" target="_blank">Clic aquí</a> para participar.</P>
+<br>
+<br>
+<h5>Sábado 22 de febrero (oGov)</h5>
+<br>
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-time">Hora</th>
+        <th class="schedule-slot">Slot</th>
+        <th class="schedule-description">Descripcion</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+</div>
+<br>
+<h5>Sábado 22 de febrero (OpenData)</h5>
+<br>
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-time">Hora</th>
+        <th class="schedule-slot">Slot</th>
+        <th class="schedule-description">Descripcion</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+</div>
+<br>
+<p>Abierto proceso de propuestas para el sábado 22 de febrero. <a href="https://docs.google.com/forms/d/1kZyxeWB6L7BuHnpgw9cn01DEbmmkw1B8NczID8ZLvkw/viewform" target="_blank">Clic aquí</a> para participar.</P>
