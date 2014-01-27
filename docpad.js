@@ -59,13 +59,28 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Recogida de acreditaciones",
+        name: "Recogida de Acreditaciones",
         time: "9h00"
       },
       {
         name: "Acto Inaugural",
-        description: "-",
-        time: "10h00"
+        description: "Susana Díaz, Presidenta de la Junta de Andalucía. Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Representante del patrocinador oro. Representante de OpenKratio.",
+        time: "09h30"
+      },
+      {
+        name: "David Osimo",
+        photo: "",
+        bio: "",
+        company: "",
+        link: {
+          href: "http://twitter.com/osimod",
+          text: "@osimod"
+        },
+        presentation: {
+          title: "Conferenica 1: ¿Por qué es necesario el Gobierno Abierto y el Open Data? ",
+          description: "",
+          time: "10h00"
+        }
       },
       {
         name: "Miembro de la OKFN",
