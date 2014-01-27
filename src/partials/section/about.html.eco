@@ -1,18 +1,18 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">Las III Jornadas Gobierno Abierto y Open Data (OKioConf) tienen como objetivos principales promover los principios de transparencia y acceso a la información, participación y colaboración, a través de la apertura de datos públicos, sus motivaciones y objetivos en la ciudadanía, entre profesionales del sector y miembros de las instituciones públicas.</p>
+<p itemprop="description">Las <b>III Jornadas Gobierno Abierto y Open Data (OKioConf)</b> tienen como objetivos principales promover los principios de transparencia y acceso a la información, participación y colaboración, a través de la apertura de datos públicos, sus motivaciones y objetivos en la ciudadanía, entre profesionales del sector y miembros de las instituciones públicas.</p>
 
-<p itemprop="description">
+<p itemprop="description" class="text-align:center;">
   La intención de la organización es cubrir los siguientes aspectos:
-  <table border="0" cellspacing="20px" style="font-size: 1.6em;line-height: 1.6em;">
+  <table border="0" cellspacing="50px" cellpadding="50px" style="font-size:1.6em;line-height:1.6em;">
     <tr>
-        <td style="text-align:center;">Presentar buenas prácticas en materia de gobierno abierto y datos abiertos.</td>
-        <td style="text-align:center;">Exponer sectores y modelos de negocio vinculados a los datos y gobierno abierto.</td>
+        <td style="text-align:center;"><b>Presentar buenas prácticas en materia de gobierno abierto y datos abiertos.</b></td>
+        <td style="text-align:center;"><b>Exponer sectores y modelos de negocio vinculados a los datos y gobierno abierto.</b></td>
     </tr>
     <tr>
-        <td style="text-align:center;">Generar un espacio de networking para interesados en estas materias.</td>
-        <td style="text-align:center;">Realizar actividades de hacking relacionados con el gobierno y datos abiertos.</td>
+        <td style="text-align:center;"><b>Generar un espacio de networking para interesados en estas materias.</b></td>
+        <td style="text-align:center;"><b>Realizar actividades de hacking relacionados con el gobierno y datos abiertos.</b></td>
     </tr>
   </table>
 </p>
 
-<p itemprop="description">El hastag del evento será <strong>#OKioConf14</strong></p>
+<h3 style="text-align:center;">#OKioConf14</h3>
