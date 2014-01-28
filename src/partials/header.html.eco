@@ -10,7 +10,11 @@
     <h1 class="logo-name">
       <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><img src="<%= @getTheme() %>/img/okioconflogo.png"></a>
     </h1>
-    <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
+    <h2 class="tagline">
+      <%= @conf.realname %> de <a href="<%= @conf.organizedurl %>" target="_blank"><%= @conf.organizedby %></a>
+      <br>
+      <%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %>
+    </h2>
 
     <% if @conf.price || @callToAction: %>
       <div class="call-action-area">

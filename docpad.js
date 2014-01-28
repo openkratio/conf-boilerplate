@@ -8,6 +8,9 @@ module.exports = {
     // Conference info
     conf: {
       name: "OKioConf 2014",
+      realname: "III Jornadas de Gobierno Abierto y Open Data",
+      organizedby: "Openkratio",
+      organizedurl: "http://openkratio.org",
       description: "III Jornadas de Gobierno Abierto y Open Data",
       date: "21-22 Febrero de 2014",
       // If your event is free, just comment this line
