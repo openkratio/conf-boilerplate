@@ -70,7 +70,7 @@ module.exports = {
       {
         name: "David Osimo",
         photo: "themes/yellow-swan/img/davidosimo.jpg",
-        bio: "Analista de políticas de innovación basadas en TICs. Ha sido responsable científico en el Instituto de Prospectiva Tecnológica de la Comisión Europea",
+        bio: "Analista de políticas de innovación basadas en TICs, Director de Open Evidence, ha sido responsable científico en el Instituto de Prospectiva Tecnológica de la Comisión Europea",
         company: "Open Evidence",
         link: {
           href: "http://twitter.com/osimod",
@@ -86,11 +86,10 @@ module.exports = {
         name: "Café",
         time: "10h45"
       },
-
       {
         name: "Mor Rubistein",
         photo: "themes/yellow-swan/img/morchickit.jpeg",
-        bio: "Coordinadora del Grupo de Gobierno Abierto",
+        bio: "Open Government working group coordinator",
         company: "Open Knowledge Foundation",
         link: {
           href: "http://twitter.com/morchickit",
@@ -110,8 +109,8 @@ module.exports = {
       {
         name: "César Nicandro",
         photo: "themes/yellow-swan/img/cesarnicandro.jpeg",
-        bio: "Politólogo especializado en legitimación, políticas públicas y cambio de las políticas. Policy Process Researcher. Desarrollador web y Media-Community Manager.",
-        company: "Gigapp",
+        bio: "Politólogo especializado en políticas públicas y legitimación. Community manager e Investigador Asociado",
+        company: "GIGAPP-IUOG",
         link: {
           href: "http://twitter.com/cesarncruz",
           text: "@cesarncruz"
@@ -134,8 +133,8 @@ module.exports = {
       {
         name: "Antoni Gutierrez Rubí",
         photo: "themes/yellow-swan/img/antonigr.jpg",
-        bio: "Asesor de comunicación",
-        company: "",
+        bio: "Experto en comunicación política, director de Ideograma, columnista habitual en diversos medios y autor de varias publicaciones",
+        company: "Ideograma",
         link: {
           href: "http://twitter.com/antonigr",
           text: "@antonigr"
@@ -149,7 +148,7 @@ module.exports = {
       {
         name: "Vicky Anderica",
         photo: "themes/yellow-swan/img/vickyanderica.jpg",
-        bio: "Coordinadora de proyectos e investigadora",
+        bio: "Coordinadora de proyectos en Access Info Europe, responsable del ranking mundial de leyes de acceso a la información Global Right to Inforation Rating. ",
         company: "Access Info Europa",
         link: {
           href: "http://twitter.com/vickyande",
@@ -165,6 +164,10 @@ module.exports = {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
         description: "Moderador: Jesús Huerta, Director General de Política Digital // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Representante de @suscuentas",
         time: "18h30"
+      },
+      {
+        name: "Fin primera jornada",
+        time: "19h30"
       }
     ],
     // List of Sponsors
