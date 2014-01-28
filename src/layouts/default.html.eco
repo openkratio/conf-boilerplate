@@ -40,7 +40,12 @@
         <%- @content %>
         <!-- FOOTER -->
         <footer class="footer">
-          <p>Made with ♥ by <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> :)</p>
+          <p>Hecho con ♥ por <a href="http://twitter.com/edipotrebol">@edipotrebol</a> usando <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a>
+          <br>
+          Logo: <a href="http://kadozkreaccion.es">@kadozkreaccion</a>. Foto: <a href="http://twitter.com/marguiruhe">@marguiruhe</a>.
+          <br>
+          Contenido generado por el Core de <a href="http://twitter.com/openkratio">@openkratio</a>.
+          </p>
         </footer>
         <!-- / FOOTER -->
       </div>

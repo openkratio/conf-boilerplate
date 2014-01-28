@@ -77,8 +77,8 @@ module.exports = {
           text: "@osimod"
         },
         presentation: {
-          title: "Conferencia 1: Open Policies, Open Data y Open Science: factores y motivaciones comunes",
-          description: "",
+          title: "Conferencia 1",
+          description: "Open Policies, Open Data y Open Science: factores y motivaciones comunes",
           time: "10h00"
         }
       },
@@ -97,8 +97,8 @@ module.exports = {
           text: "@morchickit"
         },
         presentation: {
-          title: "Conferencia 2: El oGov en el mundo: políticas y herramientas",
-          description: "",
+          title: "Conferencia 2",
+          description: "El oGov en el mundo: políticas y herramientas",
           time: "11h30"
         }
       },
@@ -117,8 +117,8 @@ module.exports = {
           text: "@cesarncruz"
         },
         presentation: {
-          title: "Conferencia 3: ¿Qué se plantea hacer a nivel nacional? Compromisos y evaluación del Plan de Gobierno Abierto de España ante la Open Government Parnership",
-          description: "",
+          title: "Conferencia 3",
+          description: "¿Qué se plantea hacer a nivel nacional? Compromisos y evaluación del Plan de Gobierno Abierto de España ante la Open Government Parnership",
           time: "13h15"
         }
       },
@@ -141,8 +141,8 @@ module.exports = {
           text: "@antonigr"
         },
         presentation: {
-          title: "Conferencia 4: Hablemos claro, ¿y si forzamos la apertura? Protección a los whistleblower",
-          description: "",
+          title: "Conferencia 4",
+          description: "Hablemos claro, ¿y si forzamos la apertura? Protección a los whistleblower",
           time: "17h00"
         }
       },
@@ -156,8 +156,8 @@ module.exports = {
           text: "@vickyande"
         },
         presentation: {
-          title: "Conferencia 5: Transparencia para la trazabilidad de la influencia Regulación de los Lobbies",
-          description: "",
+          title: "Conferencia 5",
+          description: "Transparencia para la trazabilidad de la influencia Regulación de los Lobbies",
           time: "17h45"
         }
       },
