@@ -70,8 +70,8 @@ module.exports = {
       {
         name: "David Osimo",
         photo: "themes/yellow-swan/img/davidosimo.jpg",
-        bio: "",
-        company: "",
+        bio: "Analista de políticas de innovación basadas en TICs. Ha sido responsable científico en el Instituto de Prospectiva Tecnológica de la Comisión Europea",
+        company: "Open Evidence",
         link: {
           href: "http://twitter.com/osimod",
           text: "@osimod"
