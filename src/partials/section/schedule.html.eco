@@ -75,4 +75,18 @@
   </table>
 </div>
 <br>
-<p>Abierto proceso de propuestas para el sábado 22 de febrero. <a href="https://docs.google.com/forms/d/1kZyxeWB6L7BuHnpgw9cn01DEbmmkw1B8NczID8ZLvkw/viewform" target="_blank">Clic aquí</a> para participar.</P>
+<p>Abierto proceso de propuestas para el sábado 22 de febrero. <a href="https://docs.google.com/forms/d/1kZyxeWB6L7BuHnpgw9cn01DEbmmkw1B8NczID8ZLvkw/viewform" target="_blank">Clic aquí</a> para participar.</p>
+<br>
+<br>
+<br>
+<% if @conf.price || @callToAction: %>
+  <div class="call-action-area-2">
+    <% if @conf.price: %>
+      <span class="price">Por solo <%= @conf.price %></span>
+    <% end %>
+
+    <% if @callToAction: %>
+      <a href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
+    <% end %>
+  </div>
+<% end %>

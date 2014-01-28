@@ -11,7 +11,7 @@ module.exports = {
       description: "III Jornadas de Gobierno Abierto y Open Data",
       date: "21-22 Febrero de 2014",
       // If your event is free, just comment this line
-      // price: "0€",
+      price: "0€",
       venue: "Universidad Pablo de Olavide",
       address: " Universidad Pablo de OlavideCarretera de Utrera, km. 1",
       city: "Sevilla",
@@ -90,15 +90,15 @@ module.exports = {
       {
         name: "Mor Rubistein",
         photo: "themes/yellow-swan/img/morchickit.jpeg",
-        bio: "Coordinadora grupo de trabajo oGov",
+        bio: "Coordinadora del Grupo de Gobierno Abierto",
         company: "Open Knowledge Foundation",
         link: {
           href: "http://twitter.com/morchickit",
           text: "@morchickit"
         },
         presentation: {
-          title: "Conferencia 2",
-          description: "El oGov en el mundo: políticas y herramientas",
+          title: "Conferencia 2 (english)",
+          description: "Open Government Data - a world view",
           time: "11h30"
         }
       },
