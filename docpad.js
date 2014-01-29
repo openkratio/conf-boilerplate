@@ -181,6 +181,12 @@ module.exports = {
         type: "gold",
         url: "http://www.juntadeandalucia.es/administracionlocalyrelacionesinstitucionales/cms/ocms/portal/index.html"
       },
+      {
+        name: "Escuela Técnica Superior de Ingeniería Informática de la Universidad Politécnica de Valencia",
+        logo: "themes/yellow-swan/img/esiupv.png",
+        type: "bronze",
+        url: "http://www.upv.es/entidades/ETSINF/indexc.html"
+      },
     ],
 
     // List of Partners
