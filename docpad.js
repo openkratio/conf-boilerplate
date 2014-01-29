@@ -106,7 +106,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
-        description: "Moderadora: Manuela Fernández, Directora General de Derechos de la Ciudadanía, Participación y Voluntariado. // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Daniel Ros (@_danielros)",
+        description: "Moderador/a: Miembro de la Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Daniel Ros (@_danielros)",
         time: "12h15"
       },
       {
@@ -175,11 +175,12 @@ module.exports = {
     ],
     // List of Sponsors
     sponsors: [
-      // {
-      //   name: "Eventick",
-      //   logo: "themes/yellow-swan/img/your-logo.jpgs",
-      //   url: "http://eventick.com.br"
-      // }
+      {
+        name: "Consejería de Administración Local y Relaciones Institucionales de la Junta de Andalucía",
+        logo: "themes/yellow-swan/img/calri.gif",
+        type: "gold",
+        url: "http://www.juntadeandalucia.es/administracionlocalyrelacionesinstitucionales/cms/ocms/portal/index.html"
+      },
     ],
 
     // List of Partners
