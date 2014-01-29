@@ -67,7 +67,7 @@ module.exports = {
       },
       {
         name: "Acto Inaugural",
-        description: "Susana Díaz, Presidenta de la Junta de Andalucía. Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Representante del patrocinador oro. Representante de OpenKratio.",
+        description: "Representante de la Junta de Andalucía. Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Representante del patrocinador oro. Representante de OpenKratio.",
         time: "09h30"
       },
       {
@@ -106,7 +106,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
-        description: "Moderador/a: Miembro de la Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Daniel Ros (@_danielros)",
+        description: "Moderador/a: Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Daniel Ros (@_danielros)",
         time: "12h15"
       },
       {
@@ -130,7 +130,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
-        description: "Moderador: Francisco Andrés Triguero, Secretario General de Universidades, Investigación y Tecnología // Participan: CRUE y OKFN-España (grupos de trabajo sobre Universidad Abierta)",
+        description: "Moderador: Secretaría General de Universidades, Investigación y Tecnología (Junta de Andalucía) // Participan: CRUE y OKFN-España (grupos de trabajo sobre Universidad Abierta)",
         time: "16h00"
       },
       {
@@ -165,7 +165,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Jesús Huerta, Director General de Política Digital // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Representante de @suscuentas",
+        description: "Moderador: Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Representante de @suscuentas",
         time: "18h30"
       },
       {
