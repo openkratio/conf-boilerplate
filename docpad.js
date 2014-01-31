@@ -106,7 +106,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
-        description: "Moderador/a: Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde)",
+        description: "Moderador/a: Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Antonio Díaz Méndez | @adiazmendez",
         time: "12h15"
       },
       {
