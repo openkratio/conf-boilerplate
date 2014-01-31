@@ -182,6 +182,12 @@ module.exports = {
         url: "http://www.juntadeandalucia.es/administracionlocalyrelacionesinstitucionales/cms/ocms/portal/index.html"
       },
       {
+        name: "Claritic - Herramientas para Organizaciones Abiertas",
+        logo: "themes/yellow-swan/img/claritic.png",
+        type: "bronze",
+        url: "https://www.claritic.com/"
+      },
+      {
         name: "Escuela Técnica Superior de Ingeniería Informática de la Universidad Politécnica de Valencia",
         logo: "themes/yellow-swan/img/esiupv.png",
         type: "bronze",
