@@ -73,7 +73,7 @@ module.exports = {
       {
         name: "David Osimo",
         photo: "themes/yellow-swan/img/davidosimo.jpg",
-        bio: "Analista de políticas de innovación basadas en TICs, Director de Open Evidence, ha sido responsable científico en el Instituto de Prospectiva Tecnológica de la Comisión Europea",
+        bio: "Asesor de la Comisión Europea y las Naciones Unidas en materia de Open policies, Open Data y Open Science. Fundador de Open Evidence",
         company: "Open Evidence",
         link: {
           href: "http://twitter.com/osimod",
@@ -86,13 +86,9 @@ module.exports = {
         }
       },
       {
-        name: "Café",
-        time: "10h45"
-      },
-      {
         name: "Mor Rubistein",
         photo: "themes/yellow-swan/img/morchickit.jpeg",
-        bio: "Open Government working group coordinator",
+        bio: "Coordinadora del Grupo de Trabajo de Open Government de la OKFN",
         company: "Open Knowledge Foundation",
         link: {
           href: "http://twitter.com/morchickit",
@@ -101,9 +97,14 @@ module.exports = {
         presentation: {
           title: "Conferencia 2 (english)",
           description: "Open Government Data - a world view",
-          time: "11h30"
+          time: "10h45"
         }
       },
+      {
+        name: "Café",
+        time: "11h30"
+      },
+
       {
         name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
         description: "Moderador/a: Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Antonio Díaz Méndez | @adiazmendez",
