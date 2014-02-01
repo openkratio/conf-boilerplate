@@ -165,7 +165,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Representante de @suscuentas",
+        description: "Moderador: Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Miguel Ongil (@Migs_Bru - @suscuentas)",
         time: "18h30"
       },
       {
