@@ -6,6 +6,9 @@
         <a href="#<%= section %>" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
       </li>
     <% end %>
+    <li class="nav-item">
+        <a href="//opendatasevilla.org" target="_blank" title="Edición 2012" class="nav-link-external">Edición 2012</a>
+    </li>
   </ul>
 </nav>
 
