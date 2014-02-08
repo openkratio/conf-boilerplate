@@ -131,7 +131,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
-        description: "Moderador: Secretaría General de Universidades, Investigación y Tecnología (Junta de Andalucía) // Participan: CRUE y OKFN-España (grupos de trabajo sobre Universidad Abierta)",
+        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: CRUE y OKFN-España (grupos de trabajo sobre Universidad Abierta)",
         time: "16h00"
       },
       {
@@ -166,7 +166,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Miguel Ongil (@Migs_Bru - @suscuentas)",
+        description: "Moderador: Jesús Huerta Almendro, Director General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Miguel Ongil (@Migs_Bru - @suscuentas)",
         time: "18h30"
       },
       {
