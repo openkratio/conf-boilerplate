@@ -177,6 +177,12 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
+        name: "Telefónica",
+        logo: "themes/yellow-swan/img/telefonica-logo.png",
+        type: "gold",
+        url: "http://www.telefonica.es/portada/index.html"
+      },
+      {
         name: "Consejería de Administración Local y Relaciones Institucionales de la Junta de Andalucía",
         logo: "themes/yellow-swan/img/calri.gif",
         type: "gold",
