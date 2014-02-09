@@ -195,6 +195,12 @@ module.exports = {
         url: "https://www.claritic.com/"
       },
       {
+        name: "Cooperativa Enreda - Tecnología, Comunicación y Sociedad",
+        logo: "themes/yellow-swan/img/enreda.png",
+        type: "bronze",
+        url: "http://www.enreda.coop/"
+      },
+      {
         name: "Escuela Técnica Superior de Ingeniería Informática de la Universidad Politécnica de Valencia",
         logo: "themes/yellow-swan/img/esiupv.png",
         type: "bronze",
