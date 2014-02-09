@@ -206,6 +206,13 @@ module.exports = {
         type: "bronze",
         url: "http://www.upv.es/entidades/ETSINF/indexc.html"
       },
+      {
+        name: "Lippo - ",
+        logo: "themes/yellow-swan/img/lippo.png",
+        type: "bronze",
+        url: "http://lippo.es"
+      },
+
     ],
 
     // List of Partners
