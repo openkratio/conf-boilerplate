@@ -174,6 +174,78 @@ module.exports = {
         time: "19h30"
       }
     ],
+		// Schedule saturday oGov
+		schedule_saturday_ogov: [
+			{
+        name: "Ordenanza Tipo de Transparencia y Reutilización de la Información. Revisión del Código de Buen Gobierno de la FEMP.",
+        description: "Víctor Almonacid Lamelas, Secretario del Ayuntamiento de Alzira, miembro ejecutivo de COSITAL, UDITE y de la Comisión de Modernización, Participación Ciudadana y Calidad de la FEMP.",
+        time: ""
+      },
+			{
+        name: "Situación actual y perspectivas para un parlamento abierto.",
+        description: "Miguel Angel Gonzalo, webmaster del Congreso de los Diputados.",
+        time: ""
+      },
+			{
+        name: "El Consejo de la ciudadanía ¿y ahora qué?",
+        description: "Jacinto Mateos Fernández, responsable medios audiovisuales y nuevas tecnologías del Parlamento de Extremadura.",
+        time: ""
+      },
+			{
+        name: "Net neutrality y gobierno abierto.",
+        description: "Fernando Martínez Cabezudo y Rafael Rodríguez Prieto, Profesores de Filosofía del Derecho y Política de la UPO. Miembros del LIPPO. Investigadores del I+D sobre censura y restricción de contenidos y la protección de derechos fundamentales en Internet.",
+        time: ""
+      },
+			{
+        name: "Hacia un modelo de Gobierno Abierto en la nube.",
+        description: "Mario Canivell. CLARITIC.",
+        time: ""
+      },
+			{
+        name: "Agenda del Henares y proyecto CitYsens.",
+        description: "Pedro Prieto Martín, Asociación Kyopol - Ciudad Simbiótica.",
+        time: ""
+      },			
+		],
+		// Schedule saturday openata
+		schedule_saturday_opendata: [
+			{
+        name: "Nuevos servicios Open Data. La experiencia de Aragón Open Data.",
+        description: "Jose M Subero, coordinador de Aragón Open Data.",
+        time: ""
+      },
+			{
+        name: "Infraestructura de Open Data desde la Nube.",
+        description: "Guillermo Conde Heredia,  Consultor Senior de Administración Electrónica y Gobierno Abierto en Telefónica.",
+        time: ""
+      },
+			{
+        name: "Linked Open Data & Ximdex CMS.",
+        description: "Juan Prieto, CEO de Ximdex (semantic & open CMS)",
+        time: ""
+      },
+			{
+        name: "Presentación analizo.info, participación ciudadana para el análisis de información.",
+        description: "Diego Álvarez, Director del Máster en Gestión de la Información y Subdirector de Gobierno Abierto, Comunicación y Cultura ETS Ingeniería Informática UPV.",
+        time: ""
+      },
+			{
+        name: "Estrategias Open Government Data.",
+        description: "Carlos Iglesias. Miembro de Openkratio.",
+        time: ""
+      },
+			{
+        name: "Open Spending e Historias del Gasto.",
+        description: "Félix Ontañón. Miembro de Openkratio.",
+        time: ""
+      },
+			{
+        name: "El proyecto HOMER, de armonización legal y tecnológica para la reutilización de la información pública en los países del Mediterráneo.",
+        description: "Javier Calvo Fernández, Agencia de Gestión Agraria y Pesquera de Andalucía.",
+        time: ""
+      },
+			
+		],
     // List of Sponsors
     sponsors: [
       {

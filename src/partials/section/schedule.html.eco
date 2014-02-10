@@ -49,11 +49,12 @@
 <li>Sobre experiencias y técnicas para la apertura de datos.</li>
 </ol>
 <p>Las propuestas pueden registrarse a través de <a href="https://docs.google.com/forms/d/1kZyxeWB6L7BuHnpgw9cn01DEbmmkw1B8NczID8ZLvkw/viewform" target="_blank">este formulario</a>.</p>
-<p>El core de OpenKratio seleccionará las ponencias atendiendo exclusivamente al interés para el cumplimiento de los objetivos de las jornadas.</p>
+<p>El core de OpenKratio seleccionará las ponencias atendiendo exclusivamente al interés para el cumplimiento de los objetivos de las jornadas. Algunas ya han sido seleccionadas (ver a continuación).</p>
 <br>
 <br>
 <h5>Sábado 22 de febrero (oGov)</h5>
 <br>
+<br>
 <div class="schedule-tbl">
   <table>
     <thead>
@@ -64,11 +65,24 @@
       </tr>
     </thead>
     <tbody>
+
+			<% for slot in @schedule_saturday_ogov: %>
+        	<tr class="schedule-other">
+            <td class="schedule-time"><%= slot.time %></td>
+            <td class="schedule-slot"><%= slot.name %></td>
+            <% if slot.description: %>
+              <td class="schedule-description"><%= slot.description %></td>
+            <% end %>
+          </tr>
+      <% end %>
+
     </tbody>
   </table>
 </div>
 <br>
+<br>
 <h5>Sábado 22 de febrero (OpenData)</h5>
+<br>
 <br>
 <div class="schedule-tbl">
   <table>
@@ -80,6 +94,17 @@
       </tr>
     </thead>
     <tbody>
+
+			<% for slot in @schedule_saturday_opendata: %>
+        	<tr class="schedule-other">
+            <td class="schedule-time"><%= slot.time %></td>
+            <td class="schedule-slot"><%= slot.name %></td>
+            <% if slot.description: %>
+              <td class="schedule-description"><%= slot.description %></td>
+            <% end %>
+          </tr>
+      <% end %>
+
     </tbody>
   </table>
 </div>
