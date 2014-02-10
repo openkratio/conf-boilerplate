@@ -58,7 +58,152 @@ module.exports = {
       partners: "Organizadores",
       contact: "Contacto"
     },
-
+		//Speakers
+		speakers: [
+			{
+        name: "David Osimo",
+        photo: "themes/yellow-swan/img/davidosimo.jpg",
+        bio: "Asesor de la Comisión Europea y las Naciones Unidas en materia de Open policies, Open Data y Open Science. Fundador de Open Evidence",
+				talk: "",
+        company: "Open Evidence",
+        link: {
+          href: "http://twitter.com/osimod",
+          text: "@osimod"
+        }
+      },
+			{
+        name: "Mor Rubistein",
+        photo: "themes/yellow-swan/img/morchickit.jpeg",
+        bio: "Coordinadora del Grupo de Trabajo de Open Government de la OKFN",
+        company: "Open Knowledge Foundation",
+				talk: "",
+        link: {
+          href: "http://twitter.com/morchickit",
+          text: "@morchickit"
+        }
+      },
+			{
+        name: "César Nicandro",
+        photo: "themes/yellow-swan/img/cesarnicandro.jpeg",
+        bio: "Politólogo especializado en políticas públicas y legitimación. Community manager e Investigador Asociado",
+        company: "GIGAPP-IUOG",
+				talk: "",
+        link: {
+          href: "http://twitter.com/cesarncruz",
+          text: "@cesarncruz"
+        }
+      },
+			{
+        name: "Antoni Gutierrez Rubí",
+        photo: "themes/yellow-swan/img/antonigr.jpg",
+        bio: "Experto en comunicación política, director de Ideograma, columnista habitual en diversos medios y autor de varias publicaciones",
+        company: "Ideograma",
+				talk: "",
+        link: {
+          href: "http://twitter.com/antonigr",
+          text: "@antonigr"
+        },
+      },
+			{
+        name: "Vicky Anderica",
+        photo: "themes/yellow-swan/img/vickyanderica.jpg",
+        bio: "Coordinadora de proyectos en Access Info Europe, responsable del ranking mundial de leyes de acceso a la información Global Right to Inforation Rating.",
+        company: "Access Info Europa",
+				talk: "",
+        link: {
+          href: "http://twitter.com/vickyande",
+          text: "@vickyande"
+        }
+      },
+			{
+        name: "Elena Biurrun",
+        photo: "themes/yellow-swan/img/elenabiurrum.jpeg",
+        bio: "Alcaldesa de Torrelodones",
+        company: "Ayuntamiento de Torrelodones (Madrid)",
+				talk: "",
+        link: {
+          href: "http://twitter.com/biurrun74",
+          text: "@biurrun74"
+        }
+      },
+			{
+        name: "María Jesús Fernández",
+        photo: "themes/yellow-swan/img/mjfernandez.jpg",
+        bio: "Directora de la Unidad de Gestión de la Sede Electrónica",
+        company: "Ayuntamiento de Zaragoza",
+				talk: "",
+        link: {
+          href: "",
+          text: ""
+        }
+      },
+			{
+        name: "José Antonio Rodríguez",
+        photo: "themes/yellow-swan/img/joseantoniojun.png",
+        bio: "Alcalde de Jun",
+        company: "Ayuntamiento de Jun (Granada)",
+				talk: "",
+        link: {
+          href: "http://twitter.com/JoseantonioJun",
+          text: "@JoseantonioJun"
+        }
+      },
+			{
+        name: "Antonio Díaz Méndez",
+        photo: "themes/yellow-swan/img/adiazmendez.jpg",
+        bio: "Experto en Estrategia, Gestión pública y Administración Inteligente.",
+        company: "Ayuntamiento de Alcobendas (Madrid)",
+				talk: "",
+        link: {
+          href: "http://twitter.com/adiazmendez",
+          text: "@adiazmendez"
+        }
+      },
+			{
+        name: "Vicky Bolaños",
+        photo: "themes/yellow-swan/img/vickybol.jpeg",
+        bio: "Periodista. Fundadora de Qué hacen los diputados",
+        company: "Qué hacen los diputados",
+				talk: "",
+        link: {
+          href: "http://twitter.com/vickybol",
+          text: "@vickybol"
+        }
+      },
+			{
+        name: "Stéphane M. Grueso",
+        photo: "themes/yellow-swan/img/fanetin.png",
+        bio: "Cineasta documental (y ciudadano problemático) Hago docus como http://copiadmalditos.net  Ahora soy un PRO-sistema, creo... último lío: http://15M.cc",
+        company: "",
+				talk: "",
+        link: {
+          href: "http://twitter.com/fanetin",
+          text: "@fanetin"
+        }
+      },
+			{
+        name: "Juan Moreno Yagüe",
+        photo: "themes/yellow-swan/img/hackbogado.jpeg",
+        bio: "Abogado independiente. Hackbogado en los ratos libres. Promotor de #Demo4punto0 y #OpEuribor",
+        company: "",
+				talk: "",
+        link: {
+          href: "http://twitter.com/hackbogado",
+          text: "@hackbogado"
+        }
+      },
+			{
+        name: "Miguel Ongil",
+        photo: "themes/yellow-swan/img/suscuentas.jpeg",
+        bio: "Miembro de @suscuentas",
+        company: "",
+				talk: "",
+        link: {
+          href: "http://twitter.com/Migs_Bru",
+          text: "@Migs_Bru"
+        }
+      },
+		],
     // The entire schedule
     schedule: [
       {
@@ -73,12 +218,6 @@ module.exports = {
       {
         name: "David Osimo",
         photo: "themes/yellow-swan/img/davidosimo.jpg",
-        bio: "Asesor de la Comisión Europea y las Naciones Unidas en materia de Open policies, Open Data y Open Science. Fundador de Open Evidence",
-        company: "Open Evidence",
-        link: {
-          href: "http://twitter.com/osimod",
-          text: "@osimod"
-        },
         presentation: {
           title: "Conferencia 1",
           description: "Open Policies, Open Data y Open Science: factores y motivaciones comunes",
@@ -88,12 +227,6 @@ module.exports = {
       {
         name: "Mor Rubistein",
         photo: "themes/yellow-swan/img/morchickit.jpeg",
-        bio: "Coordinadora del Grupo de Trabajo de Open Government de la OKFN",
-        company: "Open Knowledge Foundation",
-        link: {
-          href: "http://twitter.com/morchickit",
-          text: "@morchickit"
-        },
         presentation: {
           title: "Conferencia 2 (english)",
           description: "Open Government Data - a world view",
@@ -107,18 +240,12 @@ module.exports = {
 
       {
         name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
-        description: "Moderador/a: Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@junalcalde), Antonio Díaz Méndez | @adiazmendez",
+        description: "Moderador/a: Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@JoseantonioJun), Antonio Díaz Méndez | @adiazmendez",
         time: "12h15"
       },
       {
         name: "César Nicandro",
         photo: "themes/yellow-swan/img/cesarnicandro.jpeg",
-        bio: "Politólogo especializado en políticas públicas y legitimación. Community manager e Investigador Asociado",
-        company: "GIGAPP-IUOG",
-        link: {
-          href: "http://twitter.com/cesarncruz",
-          text: "@cesarncruz"
-        },
         presentation: {
           title: "Conferencia 3",
           description: "¿Qué se plantea hacer a nivel nacional? Compromisos y evaluación del Plan de Gobierno Abierto de España ante la Open Government Parnership",
@@ -137,12 +264,6 @@ module.exports = {
       {
         name: "Antoni Gutierrez Rubí",
         photo: "themes/yellow-swan/img/antonigr.jpg",
-        bio: "Experto en comunicación política, director de Ideograma, columnista habitual en diversos medios y autor de varias publicaciones",
-        company: "Ideograma",
-        link: {
-          href: "http://twitter.com/antonigr",
-          text: "@antonigr"
-        },
         presentation: {
           title: "Conferencia 4",
           description: "Hablemos claro, ¿y si forzamos la apertura? Protección a los whistleblower",
@@ -152,12 +273,6 @@ module.exports = {
       {
         name: "Vicky Anderica",
         photo: "themes/yellow-swan/img/vickyanderica.jpg",
-        bio: "Coordinadora de proyectos en Access Info Europe, responsable del ranking mundial de leyes de acceso a la información Global Right to Inforation Rating. ",
-        company: "Access Info Europa",
-        link: {
-          href: "http://twitter.com/vickyande",
-          text: "@vickyande"
-        },
         presentation: {
           title: "Conferencia 5",
           description: "Transparencia para la trazabilidad de la influencia Regulación de los Lobbies",
@@ -166,7 +281,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Jesús Huerta Almendro, Director General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vicky_bol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Miguel Ongil (@Migs_Bru - @suscuentas)",
+        description: "Moderador: Jesús Huerta Almendro, Director General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Miguel Ongil (@Migs_Bru - @suscuentas)",
         time: "18h30"
       },
       {
