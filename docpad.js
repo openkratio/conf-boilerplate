@@ -189,6 +189,13 @@ module.exports = {
         url: "http://www.juntadeandalucia.es/administracionlocalyrelacionesinstitucionales/cms/ocms/portal/index.html"
       },
       {
+        name: "Lippo - ",
+        logo: "themes/yellow-swan/img/lippo.png",
+        type: "bronze",
+        url: "http://lippo.es"
+      },
+
+      {
         name: "Claritic - Herramientas para Organizaciones Abiertas",
         logo: "themes/yellow-swan/img/claritic.png",
         type: "bronze",
@@ -207,11 +214,12 @@ module.exports = {
         url: "http://www.upv.es/entidades/ETSINF/indexc.html"
       },
       {
-        name: "Lippo - ",
-        logo: "themes/yellow-swan/img/lippo.png",
+        name: "Ximdex",
+        logo: "themes/yellow-swan/img/ximdex.png",
         type: "bronze",
-        url: "http://lippo.es"
+        url: "http://www.ximdex.com"
       },
+
 
     ],
 
