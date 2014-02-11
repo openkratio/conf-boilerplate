@@ -9,9 +9,10 @@
   <div class="wrapper">
     <h1 class="logo-name">
       <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><img src="<%= @getTheme() %>/img/okioconflogo.png"></a>
+      <a href="http://upo.es" title="Logo UPO" target="_blank"><img src="<%= @getTheme() %>/img/simbolo-UPO.png"></a>
     </h1>
     <h2 class="tagline">
-      <%= @conf.realname %> de <a href="<%= @conf.organizedurl %>" target="_blank"><%= @conf.organizedby %></a>
+      <%= @conf.realname %>
       <br>
       <%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %>
     </h2>

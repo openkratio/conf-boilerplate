@@ -15,7 +15,7 @@ module.exports = {
       date: "21-22 Febrero de 2014",
       // If your event is free, just comment this line
       price: "0€",
-      venue: "Paraninfo Universidad Pablo de Olavide",
+      venue: "Openkratio y Universidad Pablo de Olavide",
       address: "Universidad Pablo de Olavide, de Sevilla. Carretera Utrera, km. 1, Sevilla España",
       city: "Sevilla",
       state: "España"
