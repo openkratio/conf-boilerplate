@@ -13,7 +13,7 @@
 <% end %>
 <% end %>
 </ul>
-<!--<br>
+<br>
 <br>
 <h5 style="text-align:center;">Plata</h5>
 <br>
@@ -27,7 +27,7 @@
   </li>
 <% end %>
 <% end %>
-</ul>-->
+</ul>
 <br>
 <br>
 <h5 style="text-align:center;">Bronce</h5>

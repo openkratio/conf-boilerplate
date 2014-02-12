@@ -376,7 +376,13 @@ module.exports = {
         url: "http://www.juntadeandalucia.es/administracionlocalyrelacionesinstitucionales/cms/ocms/portal/index.html"
       },
       {
-        name: "Lippo - ",
+        name: "Isotrol",
+        logo: "themes/yellow-swan/img/isotrol.png",
+        type: "silver",
+        url: "https://www.isotrol.com/web/"
+      },
+      {
+        name: "Lippo",
         logo: "themes/yellow-swan/img/lippo.png",
         type: "bronze",
         url: "http://lippo.es"
