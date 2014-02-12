@@ -162,7 +162,7 @@ module.exports = {
 			{
         name: "Vicky Bolaños",
         photo: "themes/yellow-swan/img/vickybol.jpeg",
-        bio: "Periodista. Fundadora de Qué hacen los diputados",
+        bio: "Periodista digital en RTVE y fundadora de QueHacenLosDiputados.net, iniciativa ciudadana de monitorización de la actividad parlamentaria del Congreso de los Diputados.",
         company: "Qué hacen los diputados",
 				talk: "",
         link: {
@@ -173,7 +173,7 @@ module.exports = {
 			{
         name: "Stéphane M. Grueso",
         photo: "themes/yellow-swan/img/fanetin.png",
-        bio: "Cineasta documental (y ciudadano problemático) Hago docus como http://copiadmalditos.net  Ahora soy un PRO-sistema, creo... último lío: http://15M.cc",
+        bio: "Director y productor de documentales,  'narrador' de #acampadasol y del #15M en general, tendiendo un 'puente informativo' entre los que podían estar presentes y los que no.",
         company: "",
 				talk: "",
         link: {
@@ -184,7 +184,7 @@ module.exports = {
 			{
         name: "Juan Moreno Yagüe",
         photo: "themes/yellow-swan/img/hackbogado.jpeg",
-        bio: "Abogado independiente. Hackbogado en los ratos libres. Promotor de #Demo4punto0 y #OpEuribor",
+        bio: "Abogado independiente, lidera iniciativas ciudadanas como #15MpaRato y #OpEuribor",
         company: "",
 				talk: "",
         link: {
@@ -192,7 +192,7 @@ module.exports = {
           text: "@hackbogado"
         }
       },
-			{
+	  {
         name: "Miguel Ongil",
         photo: "themes/yellow-swan/img/suscuentas.jpeg",
         bio: "Miembro de @suscuentas",
@@ -203,7 +203,30 @@ module.exports = {
           text: "@Migs_Bru"
         }
       },
-		],
+      {
+        name: "Enrique Teruel",
+        photo: "themes/yellow-swan/img/eteruel.jpg",
+        bio: "Coordinador del subgrupo de Gobierno Abierto en la CRUE,  Delegado del Rector para los Servicios de Informática y Comunicaciones.",
+        company: "Universidad de Zaragoza",
+		talk: "",
+        link: {
+          href: "http://twitter.com/TeruelEnrique",
+          text: "@TeruelEnrique"
+        }
+      },
+      {
+        name: "iDiego Álvarez",
+        photo: "themes/yellow-swan/img/diegoalsan.png",
+        bio: "Coordinador del grupo Universidad Abierta de OKFN-Spain, Director del Máster en Gestión de la Información y Subdirector de Gobierno Abierto, Comunicación y Cultura ETS Ingeniería Informática UPV.",
+        company: "Universidad Politécnica de Valencia",
+				talk: "",
+        link: {
+          href: "http://twitter.com/diegoalsan",
+          text: "@diegoalsan"
+        }
+      },
+
+	],
     // The entire schedule
     schedule: [
       {
@@ -258,7 +281,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
-        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: CRUE y OKFN-España (grupos de trabajo sobre Universidad Abierta)",
+        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE) y Diego Álvarez (OKFN-España)",
         time: "16h00"
       },
       {
