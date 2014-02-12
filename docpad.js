@@ -212,7 +212,7 @@ module.exports = {
       },
       {
         name: "Acto Inaugural",
-        description: "Representante de la Junta de Andalucía. Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Representante del patrocinador oro. Representante de OpenKratio.",
+        description: "Representante de la Junta de Andalucía. Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Representante de Telefónica. Félix Ontañón de OpenKratio (@fontanon).",
         time: "09h30"
       },
       {
@@ -281,7 +281,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Jesús Huerta Almendro, Director General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Representante de @openkratio, Miguel Ongil (@Migs_Bru - @suscuentas)",
+        description: "Moderador: Jesús Huerta Almendro, Director General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Pablo Martín de Openkratio (@edipotrebol), Miguel Ongil (@Migs_Bru - @suscuentas)",
         time: "18h30"
       },
       {
