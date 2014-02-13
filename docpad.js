@@ -236,7 +236,7 @@ module.exports = {
       },
       {
         name: "Acto Inaugural",
-        description: "Representante de la Junta de Andalucía. Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Representante de Telefónica. Félix Ontañón de OpenKratio (@fontanon).",
+        description: "Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Manuel Jiménez Barrios, Consejero de la Presidencia de la Junta de andalucía. Dolores Muñoz Carrasco, Secretaria General de Consumo de la Junta de Andalucía. Jesús Huerta Almendro, Director General de Política Digital de la Junta de Andalucía. Representante de Telefónica.",
         time: "09h30"
       },
       {
@@ -305,7 +305,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Jesús Huerta Almendro, Director General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Pablo Martín de Openkratio (@edipotrebol), Miguel Ongil (@Migs_Bru - @suscuentas)",
+        description: "Moderador: Miembro de la Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Pablo Martín de Openkratio (@edipotrebol), Miguel Ongil (@Migs_Bru - @suscuentas)",
         time: "18h30"
       },
       {
@@ -315,11 +315,6 @@ module.exports = {
     ],
 		// Schedule saturday oGov
 		schedule_saturday_ogov: [
-			{
-        name: "Ordenanza Tipo de Transparencia y Reutilización de la Información. Revisión del Código de Buen Gobierno de la FEMP.",
-        description: "Víctor Almonacid Lamelas, Secretario del Ayuntamiento de Alzira, miembro ejecutivo de COSITAL, UDITE y de la Comisión de Modernización, Participación Ciudadana y Calidad de la FEMP.",
-        time: ""
-      },
 			{
         name: "Situación actual y perspectivas para un parlamento abierto.",
         description: "Miguel Angel Gonzalo, webmaster del Congreso de los Diputados.",
@@ -338,6 +333,11 @@ module.exports = {
 			{
         name: "Hacia un modelo de Gobierno Abierto en la nube.",
         description: "Mario Canivell. CLARITIC.",
+        time: ""
+      },
+      {
+        name: "Presentación analizo.info, participación ciudadana para el análisis de información.",
+        description: "Diego Álvarez, Director del Máster en Gestión de la Información y Subdirector de Gobierno Abierto, Comunicación y Cultura ETS Ingeniería Informática UPV.",
         time: ""
       },
 			{
@@ -361,11 +361,6 @@ module.exports = {
 			{
         name: "Linked Open Data & Ximdex CMS.",
         description: "Juan Prieto, CEO de Ximdex (semantic & open CMS)",
-        time: ""
-      },
-			{
-        name: "Presentación analizo.info, participación ciudadana para el análisis de información.",
-        description: "Diego Álvarez, Director del Máster en Gestión de la Información y Subdirector de Gobierno Abierto, Comunicación y Cultura ETS Ingeniería Informática UPV.",
         time: ""
       },
 			{
