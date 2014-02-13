@@ -9,3 +9,15 @@
   </li>
 <% end %>
 </ul>
+
+<h3 class="section-title"><%= @labels['collaborators'] %></h3>
+<ul class="collaborator-list">
+
+<% for collaborator in @collaborators: %>
+  <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="<%= collaborator.url %>" class="partner-logo partner-link" itemprop="url">
+      <img src="<%= collaborator.logo %>" alt="<%= collaborator.name %>" class="photo" itemprop="image" width="100px">
+    </a>
+  </li>
+<% end %>
+</ul>

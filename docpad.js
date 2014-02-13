@@ -56,6 +56,7 @@ module.exports = {
       schedule: "Programa",
       sponsors: "Patrocinadores",
       partners: "Organizadores",
+      collaborators: "Colaboradores",
       contact: "Contacto"
     },
 		//Speakers
@@ -451,6 +452,20 @@ module.exports = {
         logo: "themes/yellow-swan/img/updo.jpg",
         url: "http://www.upo.es"
       }
+    ],
+     
+    // List of Collaborators
+    collaborators: [
+      {
+        name: "Mala Practik",
+        logo: "themes/yellow-swan/img/malapractik.png",
+        url: "http://www.practik.es/"
+      },
+      {
+        name: "KadozKreaccion",
+        logo: "themes/yellow-swan/img/kadozkreaccion.png",
+        url: "http://kadozkreaccion.es"
+      },
     ],
 
     // Theme path
