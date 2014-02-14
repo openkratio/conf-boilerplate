@@ -384,7 +384,7 @@ module.exports = {
     sponsors: [
       {
         name: "Telefónica",
-        logo: "themes/yellow-swan/img/telefonica-logo.png",
+        logo: "themes/yellow-swan/img/telefonica.jpg",
         type: "gold",
         url: "http://www.telefonica.es/portada/index.html"
       },
