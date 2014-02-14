@@ -216,7 +216,7 @@ module.exports = {
         }
       },
       {
-        name: "iDiego Álvarez",
+        name: "Diego Álvarez",
         photo: "themes/yellow-swan/img/diegoalsan.png",
         bio: "Coordinador del grupo Universidad Abierta de OKFN-Spain, Director del Máster en Gestión de la Información y Subdirector de Gobierno Abierto, Comunicación y Cultura ETS Ingeniería Informática UPV.",
         company: "Universidad Politécnica de Valencia",
@@ -226,7 +226,28 @@ module.exports = {
           text: "@diegoalsan"
         }
       },
-
+      {
+        name: "Fernanda Peset Mancebo",
+        photo: "themes/yellow-swan/img/fp.png",
+        bio: "Coordinadora del proyecto Datasea.",
+        company: "Universidad Politécnica de Valencia",
+				talk: "",
+        link: {
+            href: "",
+          text: ""
+        }
+      },
+      {
+        name: "María Dácil Marín García",
+        photo: "themes/yellow-swan/img/ualcala.png",
+        bio: "Directora de Comunicación Institucional",
+        company: "Universidad de Alcalá",
+				talk: "",
+        link: {
+          href: "",
+          text: ""
+        }
+      },
 	],
     // The entire schedule
     schedule: [
@@ -236,7 +257,7 @@ module.exports = {
       },
       {
         name: "Acto Inaugural",
-        description: "Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Manuel Jiménez Barrios, Consejero de la Presidencia de la Junta de andalucía. Dolores Muñoz Carrasco, Secretaria General de Consumo de la Junta de Andalucía. Jesús Huerta Almendro, Director General de Política Digital de la Junta de Andalucía. Representante de Telefónica.",
+        description: "Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Manuel Jiménez Barrios, Consejero de la Presidencia de la Junta de Andalucía. Dolores Muñoz Carrasco, Secretaria General de Consumo de la Junta de Andalucía. Jesús Huerta Almendro, Director General de Política Digital de la Junta de Andalucía. Representante de Telefónica.",
         time: "09h30"
       },
       {
@@ -264,7 +285,7 @@ module.exports = {
 
       {
         name: "Mesa debate 1: ¿Qué estamos haciendo en España? Experiencias locales sobre apertura y participación",
-        description: "Moderador/a: Luisa María Saavedra, Asesora Técnica de la Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@JoseantonioJun), Antonio Díaz Méndez | @adiazmendez",
+        description: "Moderador/a: Luisa María Saavedra, Asesora Técnica de la Dirección General de Derechos de la Ciudadanía, Participación y Voluntariado (Junta de Andalucía). // Participan: Elena Biurrun (@biurrun74),  María Jesús Fernandez, José Antonio Rodríguez (@JoseantonioJun), Antonio Díaz Méndez (@adiazmendez)",
         time: "12h15"
       },
       {
@@ -282,7 +303,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
-        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE) y Diego Álvarez (OKFN-España)",
+        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE), Diego Álvarez (OKFN-España), Fernanda Peset y María Dácil Marín",
         time: "16h00"
       },
       {
@@ -305,7 +326,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 3: La ciudadanía actúa, ¿para qué abrir los datos públicos? Open Data para una ciudadanía activa",
-        description: "Moderador: Miembro de la Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Pablo Martín de Openkratio (@edipotrebol), Miguel Ongil (@Migs_Bru - @suscuentas)",
+        description: "Moderador:Juan Leal Zubiete, Jefe de Servicio de Innovación y Prospectiva de la Dirección General de Política Digital (Junta de Andalucía) // Participan: Vicky Bolaños (@vickybol), Stéphane M. Grueso (@fanetin), Juan Moreno Yagüe (@hackbogado), Pablo Martín de Openkratio (@edipotrebol), Miguel Ongil (@Migs_Bru - @suscuentas)",
         time: "18h30"
       },
       {
