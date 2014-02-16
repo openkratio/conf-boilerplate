@@ -241,7 +241,7 @@ module.exports = {
         name: "María Dácil Marín García",
         photo: "themes/yellow-swan/img/ualcala.png",
         bio: "Directora de Comunicación Institucional",
-        company: "Universidad de Alcalá",
+        company: "Universidad de Alcalá de Henares",
 				talk: "",
         link: {
           href: "",
@@ -303,7 +303,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
-        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE), Diego Álvarez (OKFN-España), Fernanda Peset y María Dácil Marín",
+        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE), Diego Álvarez (OKFN-España), Fernanda Peset (UPV) y María Dácil Marín (UAH)",
         time: "16h00"
       },
       {
