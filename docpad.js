@@ -336,70 +336,96 @@ module.exports = {
     ],
 		// Schedule saturday oGov
 		schedule_saturday_ogov: [
-			{
+      {
+        name: "Recogida de acreditaciones",
+        description: "",
+        time: "09h30"
+      },
+		  {
         name: "Situación actual y perspectivas para un parlamento abierto.",
         description: "Miguel Angel Gonzalo, webmaster del Congreso de los Diputados.",
-        time: ""
+        time: "10h00"
       },
 			{
         name: "El Consejo de la ciudadanía ¿y ahora qué?",
         description: "Jacinto Mateos Fernández, responsable medios audiovisuales y nuevas tecnologías del Parlamento de Extremadura.",
-        time: ""
-      },
-			{
-        name: "Net neutrality y gobierno abierto.",
-        description: "Fernando Martínez Cabezudo y Rafael Rodríguez Prieto, Profesores de Filosofía del Derecho y Política de la UPO. Miembros del LIPPO. Investigadores del I+D sobre censura y restricción de contenidos y la protección de derechos fundamentales en Internet.",
-        time: ""
-      },
-			{
-        name: "Hacia un modelo de Gobierno Abierto en la nube.",
-        description: "Mario Canivell. CLARITIC.",
-        time: ""
+        time: "10h30"
       },
       {
         name: "Presentación analizo.info, participación ciudadana para el análisis de información.",
         description: "Diego Álvarez, Director del Máster en Gestión de la Información y Subdirector de Gobierno Abierto, Comunicación y Cultura ETS Ingeniería Informática UPV.",
-        time: ""
+        time: "11h00"
       },
 			{
+        name: "Descanso",
+        description: "",
+        time: "11h30"
+      },
+      {
+        name: "Net neutrality y gobierno abierto.",
+        description: "Fernando Martínez Cabezudo y Rafael Rodríguez Prieto, Profesores de Filosofía del Derecho y Política de la UPO. Miembros del LIPPO. Investigadores del I+D sobre censura y restricción de contenidos y la protección de derechos fundamentales en Internet.",
+        time: "12h00"
+      },
+			{
+        name: "Hacia un modelo de Gobierno Abierto en la nube.",
+        description: "Mario Canivell. CLARITIC.",
+        time: "12h30"
+      },
+      {
         name: "Agenda del Henares y proyecto CitYsens.",
         description: "Pedro Prieto Martín, Asociación Kyopol - Ciudad Simbiótica.",
-        time: ""
-      },			
+        time: "13h00"
+      },
+      {
+        name: "Cierre de las jornadas. Breve repaso: OKioConf, Actividad de OpenKratio en 2013, ¿Y ahora qué? Roadmap 2014",
+        description: "OpenKratio",
+        time: "13h30"
+      },
 		],
 		// Schedule saturday openata
 		schedule_saturday_opendata: [
+      {
+        name: "Recogida de acreditaciones",
+        description: "",
+        time: "09h30"
+      },
+
 			{
         name: "Nuevos servicios Open Data. La experiencia de Aragón Open Data.",
         description: "Jose M Subero, coordinador de Aragón Open Data.",
-        time: ""
+        time: "10h00"
       },
 			{
         name: "Infraestructura de Open Data desde la Nube.",
         description: "Guillermo Conde Heredia,  Consultor Senior de Administración Electrónica y Gobierno Abierto en Telefónica.",
-        time: ""
+        time: "10h30"
       },
 			{
         name: "Linked Open Data & Ximdex CMS.",
         description: "Juan Prieto, CEO de Ximdex (semantic & open CMS)",
-        time: ""
+        time: "11h00"
       },
+      {
+        name: "Descanso",
+        description: "",
+        time: "11h30"
+      },
+
 			{
         name: "Estrategias Open Government Data.",
         description: "Carlos Iglesias. Miembro de Openkratio.",
-        time: ""
+        time: "12h00"
       },
 			{
         name: "Open Spending e Historias del Gasto.",
         description: "Félix Ontañón. Miembro de Openkratio.",
-        time: ""
+        time: "12h30"
       },
 			{
         name: "El proyecto HOMER, de armonización legal y tecnológica para la reutilización de la información pública en los países del Mediterráneo.",
         description: "Javier Calvo Fernández, Agencia de Gestión Agraria y Pesquera de Andalucía.",
-        time: ""
+        time: "13h00"
       },
-			
 		],
     // List of Sponsors
     sponsors: [
