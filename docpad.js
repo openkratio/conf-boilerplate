@@ -258,7 +258,7 @@ module.exports = {
       },
       {
         name: "Acto Inaugural",
-        description: "Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Manuel Jiménez Barrios, Consejero de la Presidencia de la Junta de Andalucía. Dolores Muñoz Carrasco, Secretaria General de Consumo de la Junta de Andalucía. Jesús Huerta Almendro, Director General de Política Digital de la Junta de Andalucía. Representante de Telefónica.",
+        description: "Vicente Guzmán Fluja, Rector de la Universidad Pablo de Olavide. Manuel Jiménez Barrios, Consejero de la Presidencia de la Junta de Andalucía. Dolores Muñoz Carrasco, Secretaria General de Consumo de la Junta de Andalucía. Jesús Huerta Almendro, Director General de Política Digital de la Junta de Andalucía. María Jesús Almazor, Directora Territorial Sur de Telefónica.",
         time: "09h30"
       },
       {
