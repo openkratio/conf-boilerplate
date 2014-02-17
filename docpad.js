@@ -57,6 +57,7 @@ module.exports = {
       sponsors: "Patrocinadores",
       partners: "Organizadores",
       collaborators: "Colaboradores",
+      collaborators_media: "Medios colaboradores",
       contact: "Contacto"
     },
 		//Speakers
@@ -481,7 +482,7 @@ module.exports = {
 
 
     ],
-
+    
     // List of Partners
     partners: [
       {
@@ -495,7 +496,16 @@ module.exports = {
         url: "http://www.upo.es"
       }
     ],
-     
+    
+    // List of Media Collaborators
+    collaborators_media: [
+      {
+        name: "Gaceta Tecnológica",
+        logo: "themes/yellow-swan/img/gacetatecnologica.jpg",
+        url: "http://www.gacetatecnologica.com/"
+      },
+    ],
+
     // List of Collaborators
     collaborators: [
       {

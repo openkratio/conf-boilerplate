@@ -21,3 +21,16 @@
   </li>
 <% end %>
 </ul>
+
+<h3 class="section-title"><%= @labels['collaborators_media'] %></h3>
+<ul class="collaborator-list">
+
+<% for collaborator_media in @collaborators_media: %>
+  <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="<%= collaborator_media.url %>" class="partner-logo partner-link" itemprop="url">
+      <img src="<%= collaborator_media.logo %>" alt="<%= collaborator_media.name %>" class="photo" itemprop="image" width="100px">
+    </a>
+  </li>
+<% end %>
+</ul>
+
