@@ -500,6 +500,11 @@ module.exports = {
     // List of Media Collaborators
     collaborators_media: [
       {
+        name: "eldiario.es Andalucía",
+        logo: "themes/yellow-swan/img/eldiario.png",
+        url: "http://www.eldiario.es/andalucia/"
+      },
+      {
         name: "Gaceta Tecnológica",
         logo: "themes/yellow-swan/img/gacetatecnologica.jpg",
         url: "http://www.gacetatecnologica.com/"
