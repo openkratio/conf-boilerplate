@@ -509,6 +509,12 @@ module.exports = {
     // List of Collaborators
     collaborators: [
       {
+        name: "Hackandalus",
+        logo: "themes/yellow-swan/img/hackandalus.png",
+        url: "http://www.hackandalus.net/"
+      },
+
+      {
         name: "Escuela Politécnica Superior Universidad Pablo de Olavide",
         logo: "themes/yellow-swan/img/logo_eps.jpeg",
         url: "http://www.upo.es/eps/portal/"
