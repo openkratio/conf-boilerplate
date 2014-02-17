@@ -473,6 +473,11 @@ module.exports = {
     // List of Collaborators
     collaborators: [
       {
+        name: "Escuela Politécnica Superior Universidad Pablo de Olavide",
+        logo: "themes/yellow-swan/img/logo_eps.jpeg",
+        url: "http://www.upo.es/eps/portal/"
+      },
+      {
         name: "Mala Practik",
         logo: "themes/yellow-swan/img/malapractik.png",
         url: "http://www.practik.es/"
