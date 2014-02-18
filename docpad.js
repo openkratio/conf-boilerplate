@@ -515,7 +515,7 @@ module.exports = {
     collaborators: [
       {
         name: "Hackandalus",
-        logo: "themes/yellow-swan/img/hackandalus.png",
+        logo: "themes/yellow-swan/img/logoha.png",
         url: "http://www.hackandalus.net/"
       },
 
