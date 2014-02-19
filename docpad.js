@@ -498,7 +498,7 @@ module.exports = {
     ],
     
     // List of Media Collaborators
-    collaborators_media: [
+    collaborators_media: [ 
       {
         name: "eldiario.es Andalucía",
         logo: "themes/yellow-swan/img/eldiario.png",
@@ -533,6 +533,11 @@ module.exports = {
         name: "KadozKreaccion",
         logo: "themes/yellow-swan/img/kadozkreaccion.png",
         url: "http://kadozkreaccion.es"
+      },
+      {
+        name: "Fundación Civiliter",
+        logo: "themes/yellow-swan/img/civiliter.png",
+        url: "http://www.civiliter.es"
       },
     ],
 
