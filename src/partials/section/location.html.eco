@@ -7,3 +7,13 @@
 </p>
 
 <div id="map-canvas" class="location-area" data-address="<%= @conf.address %>"></div>
+
+<br/>
+<p>
+Se puede llegar a la universidad en transporte público:
+<ol class="notes">
+<li>En Metro: parada Pablo de Olavide de la línea 1.</li>
+<li>En Bús Tussam: línea 38.</li>
+</ol>
+</p>
+
