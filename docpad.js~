@@ -197,7 +197,7 @@ module.exports = {
 	  {
         name: "Miguel Ongil",
         photo: "themes/yellow-swan/img/suscuentas.jpeg",
-        bio: "Gestor de campañas e investigador. Promotor #CuentasClaras. Transparencia, financiación de partidos, UE.",
+        bio: "Miembro de @suscuentas",
         company: "",
 				talk: "",
         link: {
