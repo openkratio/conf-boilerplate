@@ -240,7 +240,7 @@ module.exports = {
       },
       {
         name: "María Dácil Marín García",
-        photo: "themes/yellow-swan/img/ualcala.png",
+        photo: "themes/yellow-swan/img/dacil_marin.jpg",
         bio: "Directora de Comunicación Institucional",
         company: "Universidad de Alcalá de Henares",
 				talk: "",
