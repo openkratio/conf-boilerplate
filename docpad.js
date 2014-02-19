@@ -196,7 +196,7 @@ module.exports = {
       },
 	  {
         name: "Miguel Ongil",
-        photo: "themes/yellow-swan/img/suscuentas.jpeg",
+        photo: "themes/yellow-swan/img/miguelongil.jpg",
         bio: "Gestor de campañas e investigador. Promotor #CuentasClaras. Transparencia, financiación de partidos, UE.",
         company: "",
 				talk: "",
