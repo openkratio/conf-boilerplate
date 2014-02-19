@@ -245,8 +245,8 @@ module.exports = {
         company: "Universidad de Alcalá de Henares",
 				talk: "",
         link: {
-          href: "",
-          text: ""
+          href: "http://twitter.com/UAHes",
+          text: "@UAHes"
         }
       },
 	],
