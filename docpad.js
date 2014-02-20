@@ -304,7 +304,7 @@ module.exports = {
       },
       {
         name: "Mesa debate 2: ¿Y las universidades qué? Universidad Abierta: algo más que Gobierno Abierto y Open Data",
-        description: "Moderador: Manuel Torralbo Rodríguez, Director General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE), Diego Álvarez (OKFN-España), Fernanda Peset (UPV) y María Dácil Marín (UAH)",
+        description: "Moderador: Francisco Manuel Solís Cabrera, Secretario del PAIDI de la Dirección General de Universidades (Junta de Andalucía) // Participan: Enrique Teruel (CRUE), Diego Álvarez (OKFN-España), Fernanda Peset (UPV) y María Dácil Marín (UAH)",
         time: "16h00"
       },
       {
