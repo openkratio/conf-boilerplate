@@ -535,6 +535,12 @@ module.exports = {
         url: "http://kadozkreaccion.es"
       },
       {
+        name: "ChezRuhe",
+        logo: "themes/yellow-swan/img/chezruhe.jpg",
+        url: "http://chezruhe.es"
+      },
+
+      {
         name: "Fundación Civiliter",
         logo: "themes/yellow-swan/img/civiliter.png",
         url: "http://www.civiliter.es"
