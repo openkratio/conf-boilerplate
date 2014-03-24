@@ -14,7 +14,7 @@
           <span> <%= speaker.talk %></span>
       </h3>
 
-      <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
+      <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %> <% if speaker.slides: %><a href="<%= speaker.slides %>" title="<%= speaker.name %> slides" class="slides">Slides</a><% end %></h3>
       <p class="speakers-bio"><%= speaker.bio %></p>
       <span class="speakers-company"><%= speaker.company %></span>
     </li>

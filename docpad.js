@@ -71,7 +71,8 @@ module.exports = {
         link: {
           href: "http://twitter.com/osimod",
           text: "@osimod"
-        }
+        },
+        slides: "https://docs.google.com/presentation/d/1B7fRMvtUllO-qhrU0LjlbifRCVayi8JjehXSQMS1CzQ/edit#slide=id.p14"
       },
 			{
         name: "Mor Rubistein",
@@ -82,7 +83,8 @@ module.exports = {
         link: {
           href: "http://twitter.com/morchickit",
           text: "@morchickit"
-        }
+        },
+        slides: "http://slid.es/morchickit/open-data"
       },
 			{
         name: "César Nicandro",
@@ -93,7 +95,8 @@ module.exports = {
         link: {
           href: "http://twitter.com/cesarncruz",
           text: "@cesarncruz"
-        }
+        },
+        slides: "http://prezi.com/vhqhdyo1hybk/gobierno-abierto-espana-informe-independiente-de-progreso-2012-2013"
       },
 			{
         name: "Antoni Gutierrez Rubí",
@@ -105,6 +108,7 @@ module.exports = {
           href: "http://twitter.com/antonigr",
           text: "@antonigr"
         },
+        slides: "http://www.slideshare.net/Antoni/hablemos-claro-y-si-forzamos-la-apertura-proteccin-a-los-whistleblower"
       },
 			{
         name: "Vicky Anderica",
@@ -210,11 +214,12 @@ module.exports = {
         photo: "themes/yellow-swan/img/eteruel.jpg",
         bio: "Coordinador del subgrupo de Gobierno Abierto en la CRUE,  Delegado del Rector para los Servicios de Informática y Comunicaciones.",
         company: "Universidad de Zaragoza",
-		talk: "",
+		    talk: "",
         link: {
           href: "http://twitter.com/TeruelEnrique",
           text: "@TeruelEnrique"
-        }
+        },
+        slides: "https://docs.google.com/presentation/d/1Yc5X7Z3U87pJ-f8CsJ-dq3iZmzF-ew9csD2UsiYB4ps/edit"
       },
       {
         name: "Diego Álvarez",
@@ -225,7 +230,8 @@ module.exports = {
         link: {
           href: "http://twitter.com/diegoalsan",
           text: "@diegoalsan"
-        }
+        },
+        slides: "https://docs.google.com/presentation/d/1Yc5X7Z3U87pJ-f8CsJ-dq3iZmzF-ew9csD2UsiYB4ps/edit"
       },
       {
         name: "Fernanda Peset Mancebo",
